@@ -1,0 +1,3 @@
+[submodule "Libraries/pop"]
+	path = Libraries/pop
+	url = https://github.com/facebook/pop.git
