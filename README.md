@@ -6,7 +6,7 @@ A yolo implementation of a 3D gesture recognizer using UITouch's -majorRadius pr
 
 Definitely not prime for shipping I wrote it just for demo purposes, but it's fun to mess with. Use it to get a feel for how 3D touch will be! :D
 
-Was built for my presentation at [NSSpain 2015](http://www.nsspain.com), so be sure to check out my talk when it's posted! :D
+Was built for my presentation at [NSSpain 2015](http://www.nsspain.com), so be sure to check out my talk [here](https://vimeo.com/145048167)! :D 
 
 Also, it's not super amazingly accurate, but it gets the job done. Helps sometimes to change the angle of your thumb or finger when pressing harder.
 
